@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="margin:0 auto;width:120px;height:120px;" src='/logo.png' alt="Omegle.rip"/>
+  <img style="margin:0 auto;width:120px;height:120px;" src='/logo.PNG' alt="Omegle.rip"/>
 </div>
 
 # 🎥 Omegle.rip – Anonymous Video Chat Just Like Omegle ⚡
