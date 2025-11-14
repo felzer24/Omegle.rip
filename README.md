@@ -1,0 +1,2 @@
+# Omegle.rip
+Omegle clone
